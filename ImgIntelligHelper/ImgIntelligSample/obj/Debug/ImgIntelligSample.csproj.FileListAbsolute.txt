@@ -1,0 +1,17 @@
+D:\桌面\AlphaMatting抠图算法系列源码\ImgIntelligHelper\ImgIntelligSample\bin\Debug\ImgIntelligSample.exe.config
+D:\桌面\AlphaMatting抠图算法系列源码\ImgIntelligHelper\ImgIntelligSample\bin\Debug\ImgIntelligSample.exe
+D:\桌面\AlphaMatting抠图算法系列源码\ImgIntelligHelper\ImgIntelligSample\bin\Debug\ImgIntelligSample.pdb
+D:\桌面\AlphaMatting抠图算法系列源码\ImgIntelligHelper\ImgIntelligSample\bin\Debug\ImgIntelligHelper.dll
+D:\桌面\AlphaMatting抠图算法系列源码\ImgIntelligHelper\ImgIntelligSample\obj\Debug\ImgIntelligSample.csprojAssemblyReference.cache
+D:\桌面\AlphaMatting抠图算法系列源码\ImgIntelligHelper\ImgIntelligSample\obj\Debug\MainWindow.g.cs
+D:\桌面\AlphaMatting抠图算法系列源码\ImgIntelligHelper\ImgIntelligSample\obj\Debug\App.g.cs
+D:\桌面\AlphaMatting抠图算法系列源码\ImgIntelligHelper\ImgIntelligSample\obj\Debug\ImgIntelligSample_MarkupCompile.cache
+D:\桌面\AlphaMatting抠图算法系列源码\ImgIntelligHelper\ImgIntelligSample\obj\Debug\ImgIntelligSample_MarkupCompile.lref
+D:\桌面\AlphaMatting抠图算法系列源码\ImgIntelligHelper\ImgIntelligSample\obj\Debug\MainWindow.baml
+D:\桌面\AlphaMatting抠图算法系列源码\ImgIntelligHelper\ImgIntelligSample\obj\Debug\ImgIntelligSample.g.resources
+D:\桌面\AlphaMatting抠图算法系列源码\ImgIntelligHelper\ImgIntelligSample\obj\Debug\ImgIntelligSample.Properties.Resources.resources
+D:\桌面\AlphaMatting抠图算法系列源码\ImgIntelligHelper\ImgIntelligSample\obj\Debug\ImgIntelligSample.csproj.GenerateResource.cache
+D:\桌面\AlphaMatting抠图算法系列源码\ImgIntelligHelper\ImgIntelligSample\obj\Debug\ImgIntelligSample.csproj.CoreCompileInputs.cache
+D:\桌面\AlphaMatting抠图算法系列源码\ImgIntelligHelper\ImgIntelligSample\obj\Debug\ImgIntelligSample.csproj.CopyComplete
+D:\桌面\AlphaMatting抠图算法系列源码\ImgIntelligHelper\ImgIntelligSample\obj\Debug\ImgIntelligSample.exe
+D:\桌面\AlphaMatting抠图算法系列源码\ImgIntelligHelper\ImgIntelligSample\obj\Debug\ImgIntelligSample.pdb

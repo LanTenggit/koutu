@@ -1,0 +1,39 @@
+﻿<Window x:Class="AlphaMattingPluginSample.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <Grid Margin="0,0,0,60">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition/>
+                <ColumnDefinition/>
+            </Grid.ColumnDefinitions>
+            <Image x:Name="ImgOrigin"/>
+            <Image Grid.Column="1" x:Name="ImgResult"/>
+        </Grid>
+        <TextBlock Text="Convert By C++" VerticalAlignment="Bottom" HorizontalAlignment="Left"
+                   FontSize="20" Margin="10,0,0,30"/>
+        <TextBlock x:Name="TbkTime" VerticalAlignment="Bottom" HorizontalAlignment="Left"
+                   FontSize="20" Margin="10,0,0,5"/>
+        <StackPanel VerticalAlignment="Bottom" HorizontalAlignment="Left" Orientation="Horizontal"
+                    Margin="240,0,0,5">
+            <Button Click="BtnCall_Click" Content="Sample 1"
+                 Padding="10,5" Tag="1"/>
+            <Button Click="BtnCall_Click" Content="Sample 2"
+                 Padding="10,5" Tag="2"/>
+            <Button Click="BtnCall_Click" Content="Sample 3"
+                 Padding="10,5" Tag="3"/>
+            <Button Click="BtnCall_Click" Content="Sample 4"
+                 Padding="10,5" Tag="4"/>
+            <Button Click="BtnCall_Click" Content="Sample 5"
+                 Padding="10,5" Tag="5"/>
+            <Button Click="BtnCall_Click" Content="Sample 6"
+                 Padding="10,5" Tag="6"/>
+        </StackPanel>
+      
+
+    </Grid>
+</Window>
